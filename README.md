@@ -14,7 +14,7 @@ The application demonstrates full-stack architecture, secure API communication, 
 
 ## 🔗 Live Demo
 
-**Frontend:** https://week-16-mission16-livid.vercel.app/
+**Frontend:https://week-16-mission16-livid.vercel.app/**
 
 **Backend:** 
 
